@@ -3,6 +3,5 @@
 > :construction: Projeto em construção :construction:
 >
 > # Autores
+(https://github.com/LuizFerMarques)  
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Luiz Fernando Marques</sub>](https://github.com/LuizFerMarques)  
-| :---: | 
